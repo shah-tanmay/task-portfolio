@@ -1,0 +1,38 @@
+.bg-1 {
+  background-color: #1abc9c;
+  color: #ffffff;
+}
+.bg-2 {
+  background-color: #474e5d;
+  color: #ffffff;
+  font-size: 20px;
+}
+.bg-3 {
+  background-color: #ffffff;
+  color: #555555;
+}
+.container-fluid {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+/* 1abc9c */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
